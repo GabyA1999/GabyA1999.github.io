@@ -1,0 +1,27 @@
+html{
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  background-image: linear-gradient(to right,
+  #5799f8, #5693ee, #548ce5,
+  #5386db, #5180d2, #6581d1,
+  #7482cf, #8284cd, #a18ed2,
+  #bb9ad6, #d2a6da, #e7b4df);
+}
+p{
+  font-size: 20px;
+}
+h1 {
+  color: #2E2E2E;
+  font-family: 'Oswald', sans-serif;
+}
+h2 {
+  color: purple;
+}
+
+ul {
+ padding-left:0;
+}
+
+ul li  {
+ list-style-position:inside
+}
