@@ -27,7 +27,7 @@ ul li  {
 }
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #C1C1C1;
+  background-color: #C8777E;
   overflow: hidden;
 }
 
@@ -49,6 +49,6 @@ ul li  {
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: #8B99D8;
   color: white;
 }
